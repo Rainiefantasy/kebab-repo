@@ -1,3 +1,4 @@
+<pre>
 # Acronym helplist
 
 **General**
@@ -24,7 +25,6 @@ Cegedim Health Data
 **HES** - Hospital Episode Statistics
 
 
-
 **Medical terms:**
 **MLTC**- Multiple Long Term Conditions 
 **ID**- Intellectual disabilities
@@ -34,3 +34,4 @@ Cegedim Health Data
 **DECODE:** Data-driven machinE-learning aided stratification and management of multiple long-term COnditions in aDults with intellectual disabilitiEs 
 **MLTC-M**- Mixed-methods study on MLTC
 **OPTIMAL study** - OPTIMising therapies, disease trajectories, and AI assisted clinical management for patients Living with complex multimorbidity 
+</pre>
