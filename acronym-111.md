@@ -1,3 +1,7 @@
+---
+breaks: false
+---
+
 # Acronym helplist
 
 **General**
